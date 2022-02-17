@@ -1,7 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
-To find the inverse of matrix using numpy
+To find the inverse of array using numpy
 
 
 ## ALGORITHM:
@@ -39,4 +39,4 @@ print(a)
 ![output](inverse.png)
 
 ## RESULT:
-Thus,inverse of a matrix is done using numpy
+Thus,inverse of a array is done using numpy
