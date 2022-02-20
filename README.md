@@ -22,6 +22,7 @@ Print the product of two arrays.
 
 
 ## PROGRAM:
+~~~
 import numpy as np
 l1,l2=[],[]
 n1,n2=int(input()),int(input())
@@ -34,7 +35,7 @@ for i in range(n1):
 print(l2)
 a=np.linalg.inv(l2)
 print(a)
-
+~~~
 ## OUTPUT:
 ![output](inverse.png)
 
